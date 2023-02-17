@@ -483,3 +483,10 @@ header .navbar ul li a:hover{
  #box{
     display: block;
  }
+ #img-css{
+    width: 200px;
+    height: 200px;
+    border-radius: 100%;
+    border: 1px solid white;
+    align-self: center;
+ }
